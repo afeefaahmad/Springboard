@@ -1,1 +1,43 @@
+Q1
+If we apply max pool with 2 X 2 filter and stride as 2 on 8 X 8 matrix, the dimension of resultant matrix will be?
+4 X 4
 
+Q3
+Which of the following tasks a Deep Learning model cannot do yet?
+Innovate a novel business idea
+
+Q4
+Which of the following pair of DNNs are similar? 
+RNN - LSTM
+
+Q5
+Which of the following is the correct order of working in CNN?
+Flattening, Convolution, Pooling
+ii,iii,i
+
+Q6 
+When should we NOT use Autoencoders? 
+To predict tomorrow's weather
+
+Q7
+Which of the following frameworks is primarily developed by Facebook AI research group?
+Pytorch
+
+Q8 
+When should we use Deep Learning?
+When we have high end infrastructure
+When we have lack of domain knowledge for feature introspection
+
+Q9 
+Assume we have stock market data X1, X2, X3, X4 for day1, day2, day3, day4 respectively. In RNN, the past day's data is used as:
+an input
+
+Q10 
+Arrange the steps in the deep learning process in the correct order --
+Splitting the data in training and testing datasets
+Model validation
+Gathering data
+Applying traditional machine learning algorithm
+Applying deep learning algorithm
+
+iii, i, v, ii
