@@ -1,0 +1,61 @@
+Q1 
+Which of the following sentences exhibit syntactic ambiguity?
+Tiny arrows and spears were used in battle
+
+Q2 
+Text Summarization Application
+
+Q3 
+One of the main challenges in NLP is:
+Handling ambiguity in sentence
+
+Q4 
+Chatbots in healthcare help in which of the following ways?
+Managing a patient's medication
+Prescribe medication for simple diseases
+
+Q5
+“I book flight ticket” , “I read this book in the flight”. Identify the given ambiguity in the sentence
+Lexical Ambiguity
+
+Q6 
+Which of the following is/are keyword Normalization techniques in NLP ?
+Stemming
+
+Q7
+Which of the below given Python library can be used to process natural language?
+NLTK
+
+Q8
+Which one of the following is not a pre-processing technique in NLP ?
+Sentiment analysis
+
+Q9 
+Identify the service that automatically extracts text and data from scanned documents
+Amazon Textract
+
+Q10
+Which of the following are the modern NLP algorithms?
+Machine Learning
+Deep Learning
+
+Q11
+Which of the following is NLP Application?
+Text Summarization
+
+Q12
+Voice assistants like Alexa use which of the following techniques to effectively communicate with users in English ?
+Speech recognition
+
+Q13
+Select True or False : Word embeddings are the vector representation of text .
+true
+
+Q14
+In NLP words ‘eaten’, ‘eating’ are converted to ‘eat’. This is the output of which of the below mentioned process ?
+Stemming
+
+Q15 
+Which of the following is the correct meaning of Named entity recognition (NER) 
+Finding spans of text that constitute proper names and then classifying the type of the entity.
+
